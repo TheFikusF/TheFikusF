@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFikusF
-- 👀 I’m interested in game developement and curently I'm working on my FPS arena shooter project.
-- 🌱 I’m currently learning Unity3D and other C#/.NET related things like Avalonia/WPF.
-- 💞️ I’m looking for a job as a C# developer, especialy in the game field.
+- 👀 I’m interested in game developement and currently I'm working as a hypercasual game developer in Unity3D.
+- 🌱 I’m currently learning Unity3D and other C#/.NET related things.
+<!-- - 💞️ I’m looking for a job as a C# developer, especialy in the game field. --->
 
 <!---
 TheFikusF/TheFikusF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
