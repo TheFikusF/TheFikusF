@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dc969fce-28cc-4c85-81d9-82879da74468)- 👋 Hi, I’m @TheFikusF
+👋 Hi, I’m @TheFikusF
 - 👀 I’m interested in game developement and currently I'm working as a Unity3D game developer.
 - 🌱 I’m currently learning Unity3D and other C#/.NET related things.
 <!-- - 💞️ I’m looking for a job as a C# developer, especialy in the game field. --->
